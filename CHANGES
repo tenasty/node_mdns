@@ -1,5 +1,9 @@
 CHANGES
 
+Version 2.2.4 to 2.7.3
+
+   - added _dns-sd to allowed service_types
+
 Version 2.2.3 to 2.2.4
 
    - changed Readme from textile to markdown, since npmjs.org doesn't render textfile well (ronkorving)
